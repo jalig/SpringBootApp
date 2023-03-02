@@ -51,5 +51,4 @@ public class RestControllerEmployee {
         employeeService.deleteEmployee(id);
         return "Employee with id = " + id + " was deleted";
     }
-
 }

@@ -1,5 +1,4 @@
 package com.example.SpringBootApp.entity;
-
 import javax.persistence.*;
 
 @Entity
